@@ -1,0 +1,43 @@
+[{
+        "name": "Eliza Knight",
+        "yearOfBirth": 1999,
+        "job": "Bank Manager",
+        "Status": "Single",
+        "gender": "Female"
+    },
+    {
+        "name": "Black Smoker",
+        "yearOfBirth": 1980,
+        "job": "Drug Lord",
+        "Status": "Confused",
+        "gender": "Male"
+    },
+    {
+        "name": "Misha Reath",
+        "yearOfBirth": 2000,
+        "job": "Google CEO",
+        "Status": "Single",
+        "gender": "Female"
+    },
+    {
+        "name": "Reix Wandonio",
+        "yearOfBirth": 1996,
+        "job": "Engineer",
+        "Status": "Engaged",
+        "gender": "Male"
+    },
+    {
+        "name": "Salton Brown",
+        "yearOfBirth": 1998,
+        "job": "Player",
+        "Status": "Married",
+        "gender": "Male"
+    },
+    {
+        "name": "Sarah Oprah",
+        "yearOfBirth": 2000,
+        "job": "Student",
+        "Status": "Single",
+        "gender": "Female"
+    }
+]
